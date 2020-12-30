@@ -1,0 +1,11 @@
+.login_div1, .login_div2 {
+    float: none;
+    height: 100%;
+}
+body {
+    background: linear-gradient(to right, rgb(250, 107, 131), yellow);
+}
+input {
+    color: brown;
+    border-radius: 20px;
+}
