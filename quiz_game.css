@@ -22,4 +22,9 @@ body {
 /*button {
     font-size: larger;
     font-weight: bold;
+}*/
+#player1_name , #player2_name
+{
+	display: inline-block;
+	margin-left: 10px;
 }
